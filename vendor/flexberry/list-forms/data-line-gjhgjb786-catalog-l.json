@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-gjhgjb786-catalog-e",
+  "editForm": "data-line-gjhgjb786-catalog-e",
+  "external": false,
+  "caption": "Catalog",
+  "name": "DataLinegjhgjb786catalogL",
+  "className": "catalogL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-catalog",
+      "modelProjection": "catalogL"
+    }
+  ]
+}

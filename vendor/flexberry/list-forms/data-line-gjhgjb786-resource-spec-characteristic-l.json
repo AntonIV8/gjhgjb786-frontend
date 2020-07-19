@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-gjhgjb786-resource-spec-characteristic-e",
+  "editForm": "data-line-gjhgjb786-resource-spec-characteristic-e",
+  "external": false,
+  "caption": "Resource_spec_characteristic",
+  "name": "DataLinegjhgjb786resource_spec_characteristicL",
+  "className": "resource_spec_characteristicL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-resource-spec-characteristic",
+      "modelProjection": "resource_spec_characteristicL"
+    }
+  ]
+}

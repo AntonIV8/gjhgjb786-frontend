@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Usr",
+  "name": "DataLinegjhgjb786usrE",
+  "className": "usrE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-usr",
+      "modelProjection": "usrE"
+    }
+  ]
+}

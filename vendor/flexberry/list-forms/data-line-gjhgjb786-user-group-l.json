@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-gjhgjb786-user-group-e",
+  "editForm": "data-line-gjhgjb786-user-group-e",
+  "external": false,
+  "caption": "User_group",
+  "name": "DataLinegjhgjb786user_groupL",
+  "className": "user_groupL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-user-group",
+      "modelProjection": "user_groupL"
+    }
+  ]
+}

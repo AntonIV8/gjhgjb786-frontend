@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Characteristic_type",
+  "name": "DataLinegjhgjb786characteristic_typeE",
+  "className": "characteristic_typeE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-characteristic-type",
+      "modelProjection": "characteristic_typeE"
+    }
+  ]
+}

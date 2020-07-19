@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-gjhgjb786-resource-e",
+  "editForm": "data-line-gjhgjb786-resource-e",
+  "external": false,
+  "caption": "Resource",
+  "name": "DataLinegjhgjb786resourceL",
+  "className": "resourceL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-resource",
+      "modelProjection": "resourceL"
+    }
+  ]
+}

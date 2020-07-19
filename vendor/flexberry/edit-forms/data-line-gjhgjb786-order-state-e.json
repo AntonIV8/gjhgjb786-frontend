@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Order_state",
+  "name": "DataLinegjhgjb786order_stateE",
+  "className": "order_stateE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-order-state",
+      "modelProjection": "order_stateE"
+    }
+  ]
+}

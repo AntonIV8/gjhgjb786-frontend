@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Catalog",
+  "name": "DataLinegjhgjb786catalogE",
+  "className": "catalogE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-catalog",
+      "modelProjection": "catalogE"
+    }
+  ]
+}

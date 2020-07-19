@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Dictionary",
+  "name": "DataLinegjhgjb786dictionaryE",
+  "className": "dictionaryE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-dictionary",
+      "modelProjection": "dictionaryE"
+    }
+  ]
+}

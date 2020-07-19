@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-gjhgjb786-service-usage-spec-e",
+  "editForm": "data-line-gjhgjb786-service-usage-spec-e",
+  "external": false,
+  "caption": "Service_usage_spec",
+  "name": "DataLinegjhgjb786service_usage_specL",
+  "className": "service_usage_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-gjhgjb786-service-usage-spec",
+      "modelProjection": "service_usage_specL"
+    }
+  ]
+}
